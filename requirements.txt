@@ -1,0 +1,4 @@
+cython
+argparse
+opencv-python
+yt-dlp
